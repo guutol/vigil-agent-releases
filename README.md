@@ -4,7 +4,7 @@
 
 Official public binary downloads for [Vigil Trophies](https://vigiltrophies.com), an achievement tracker for PC ports and emulators.
 
-**Current beta:** [v0.1.0-beta.3](https://github.com/guutol/vigil-agent-releases/releases/tag/v0.1.0-beta.3). Downloads do not require a GitHub account.
+**Current beta:** [v0.1.0-beta.4](https://github.com/guutol/vigil-agent-releases/releases/tag/v0.1.0-beta.4). Downloads do not require a GitHub account.
 
 - Windows tray app: `vigil-agent-tray.exe`.
 - Windows CLI: `vigil-agent-windows-amd64.exe`.
