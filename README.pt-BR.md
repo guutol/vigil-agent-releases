@@ -4,7 +4,7 @@
 
 Downloads oficiais e públicos do [Vigil Trophies](https://vigiltrophies.com), rastreador de conquistas para ports de PC e emuladores.
 
-**Beta atual:** [v0.1.0-beta.2](https://github.com/guutol/vigil-agent-releases/releases/tag/v0.1.0-beta.2). Não precisa de conta no GitHub para baixar.
+**Beta atual:** [v0.1.0-beta.3](https://github.com/guutol/vigil-agent-releases/releases/tag/v0.1.0-beta.3). Não precisa de conta no GitHub para baixar.
 
 - Aplicativo de bandeja Windows: `vigil-agent-tray.exe`.
 - Linha de comando Windows: `vigil-agent-windows-amd64.exe`.
